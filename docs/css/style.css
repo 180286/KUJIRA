@@ -2,9 +2,9 @@
 
 /* すべてのWebページに適用される */
 body {
-	margin: 0 0 0 0;
-	padding: 0 0 0 0;
-	background-color: #f5f3eb;
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    background-color: #E2FFF5;
 }
 .wrapper {
 	margin: 0 auto 0 auto;
@@ -29,10 +29,10 @@ p {
 	line-height: 160%;
 }
 a:link {
-	color:#6aa4d6;
+    color: #FF2F2F;
 }
 a:visited {
-	color:#6aa4d6;
+    color: #7B2929;
 }
 a:hover {
 	color: #4f7697;
@@ -57,26 +57,25 @@ img {
 	padding-right: 30px;
 }
 #nav {
-	margin: 0 0 0 0;
-	padding: 15px 30px 10px 30px;
-	background-image: url(../images/menu-bg.png);
+    margin: 0 0 0 0;
+    padding: 15px 30px 10px 30px;
+    background-image: url(../images/itigo.jpg);
 }
-#nav li a:link {
-	color: #f5f3eb;
-	text-decoration: none;
-}
-#nav li a:visited {
-	color: #f5f3eb;
-	text-decoration: none;
-}
-#nav li a:hover {
-	color: #e4dbb9;
-	text-decoration: none;
+.wrapper #nav {
 }
 #nav li a:active {
 	color: #ffffff;
 	text-decoration: none;
 }
+.wrapper #nav {
+}
+.wrapper #nav {
+}
+.wrapper #nav {
+}
+
+
+
 
 /* すべてのページに適用 - footer - */
 #footer{
