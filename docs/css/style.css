@@ -1,4 +1,4 @@
-@charset "utf-8";
+﻿@charset "utf-8";
 
 /* すべてのWebページに適用される */
 body {
@@ -61,17 +61,21 @@ img {
     padding: 15px 30px 10px 30px;
     background-image: url(../images/itigo.jpg);
 }
-.wrapper #nav {
+#nav li a:link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+#nav li a:visited {
+    color: #ED1D20;
+    text-decoration: none;
+}
+#nav li a:hover {
+    color: #E875D9;
+    text-decoration: none;
 }
 #nav li a:active {
-	color: #ffffff;
-	text-decoration: none;
-}
-.wrapper #nav {
-}
-.wrapper #nav {
-}
-.wrapper #nav {
+    color: #FFFFFF;
+    text-decoration: none;
 }
 
 
