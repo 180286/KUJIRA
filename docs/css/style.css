@@ -73,6 +73,10 @@ img {
     color: #E875D9;
     text-decoration: none;
 }
+#nav_spe li a:hover {
+    color: #00FF2C;
+    text-decoration: none;
+}
 #nav li a:active {
     color: #FFFFFF;
     text-decoration: none;
